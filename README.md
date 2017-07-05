@@ -1,4 +1,3 @@
-
 * 98% OSS
 * 1% free-as-in-beer closed source software
 * 1% in-browser tools
@@ -8,6 +7,8 @@
 
 ---
 # Table of Contents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FChicoFWD%2Fmy-links.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FChicoFWD%2Fmy-links?ref=badge_shield)
+
 
 * [Tools by Category](#tools-by-category)
 * [IT News](#it-news)
@@ -1789,3 +1790,6 @@
 * [supercron](https://pypi.python.org/pypi/supercron) - Cron on steroids -- `Python pip`
 * [supervisord](http://supervisord.org/) - Process control, kinda like an init replacement but not really -- `Python`
 * [Unix Rosetta Stone](http://bhami.com/rosetta.html) - The one and only resource for a mixed Linux/Unix environment -- `translator`
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FChicoFWD%2Fmy-links.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FChicoFWD%2Fmy-links?ref=badge_large)
